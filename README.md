@@ -1,8 +1,5 @@
 Using the Dataset from https://www.synapse.org/Synapse:syn3193805/wiki/217789
 
-The dataset was already preprocessed by Transunet paper creators and I downloaded it from here:
-https://drive.google.com/drive/folders/1ACJEoTp-uqfFJ73qS3eUObQh52nGuzCd
-
 I'm  currently downloading the dataset from my Google Cloud in the current setup.
 
 **Setup:**
